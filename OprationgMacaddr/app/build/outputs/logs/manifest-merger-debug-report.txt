@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml:5:5-13:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\379a6df8eb2509d7c55d4f7b9ae89dcf88a60d83\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\06a0818afd3eac510402a287423960cac94ea671\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\4aa79d37381357f664eed8c327d3faa4b4f9f372\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\b14ab48f46e9acedb4266011f5039eebbcb37c97\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\e61a0af0b4b7eb24e0cba2f8827b9854059cfc17\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\13958d394264cc8b5ef9f6fd5355461510ff74de\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\0c05d3afb8a09f6186eeae3ce51d47288c7edf92\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\fabd6224401e768e9516470f4b5606e708336936\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\f852b084648f548aae23d80b85e3f046b316e011\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml:11:9-40
+uses-sdk
+INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\379a6df8eb2509d7c55d4f7b9ae89dcf88a60d83\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\06a0818afd3eac510402a287423960cac94ea671\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\4aa79d37381357f664eed8c327d3faa4b4f9f372\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\b14ab48f46e9acedb4266011f5039eebbcb37c97\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\e61a0af0b4b7eb24e0cba2f8827b9854059cfc17\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\13958d394264cc8b5ef9f6fd5355461510ff74de\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\0c05d3afb8a09f6186eeae3ce51d47288c7edf92\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\fabd6224401e768e9516470f4b5606e708336936\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\f852b084648f548aae23d80b85e3f046b316e011\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\379a6df8eb2509d7c55d4f7b9ae89dcf88a60d83\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Andriod Project\OprationgMacaddr\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\379a6df8eb2509d7c55d4f7b9ae89dcf88a60d83\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\06a0818afd3eac510402a287423960cac94ea671\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\4aa79d37381357f664eed8c327d3faa4b4f9f372\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\b14ab48f46e9acedb4266011f5039eebbcb37c97\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\e61a0af0b4b7eb24e0cba2f8827b9854059cfc17\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\13958d394264cc8b5ef9f6fd5355461510ff74de\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\0c05d3afb8a09f6186eeae3ce51d47288c7edf92\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\fabd6224401e768e9516470f4b5606e708336936\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\f852b084648f548aae23d80b85e3f046b316e011\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\379a6df8eb2509d7c55d4f7b9ae89dcf88a60d83\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Vegle\.android\build-cache\379a6df8eb2509d7c55d4f7b9ae89dcf88a60d83\output\AndroidManifest.xml:26:9-47

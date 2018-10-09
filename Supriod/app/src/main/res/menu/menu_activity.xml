@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="错误信息"
+        android:id="@+id/errorinfo"
+        android:icon="@drawable/ic_action_infomation"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:title="用户信息"
+        android:id="@+id/userinfo"
+        android:icon="@drawable/ic_action_info"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:title="设置"
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_action_setting"
+        app:showAsAction="ifRoom"
+        />
+
+
+
+</menu>
